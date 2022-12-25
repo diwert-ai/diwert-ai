@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diwert-ai
-- 👀 I’m interested in Python, C, C#, SQL, ML,DL, comp vision, numpy, tensorflow, pytorch, kaggle, leetcode, py.checkio.org 
+- 👀 I’m interested in Python, C, C#, SQL, ML, DL, probability theory, comp vision, numpy, tensorflow, pytorch, kaggle, leetcode, py.checkio.org, codewars.com
 - 🌱 I’m currently learning: algorithms and data structures, ML,DL,CV
 - 💞️ I’m looking to collaborate on intresting comp vision projects 
 - 📫 How to reach me: andrewz@rambler.ru
